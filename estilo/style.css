@@ -5,11 +5,12 @@
 }
 
 bory {
-    background-color: rgb(112, 16, 202) ;
+    background-color: rgb(105, 14, 190) ;
+    
 }
 
 main { 
-    background-color: rgb(249, 243, 235);
+    background-color: rgb(175, 133, 172);
     width: 500px;
     margin: auto;
     padding: 10px;
