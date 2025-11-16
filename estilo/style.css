@@ -1,18 +1,18 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 26px;
 
 }
 
-bory {
-    background-color: rgb(179, 137, 174);
+body {
+    background-color: rgb(114, 96, 105) ;
 
 }
 
 main { 
-    background-color: rgb(150, 122, 122);
-    width: 500px;
+    background-color: rgb(192, 179, 179);
+    width: 800px;
     margin: auto;
-    padding: 10px;
+    padding: 250px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.411);
 }
